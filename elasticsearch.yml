@@ -1,8 +1,9 @@
-elasticsearch.hostname:
-  localhost
-elasticsearch.potr:
-  9200
-elasticsearch.protocol:
-  http
-elasticsearch.bulk.max-size:
-  10000
+elasticsearch:
+    hostname:
+        localhost
+    port:
+        9200
+    protocol:
+        http
+    bulk.max-size:
+        10000
